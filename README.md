@@ -48,8 +48,8 @@ Ademas se generaran mapas de antes y despues de una zona de afectacion, por ejem
 
 Formatos de archivos
 
-Los archivos que usaremos en nuestro proyecto van derivados de los programas ya menciona-dos, el cual son los siguientes:
-Archivos de texto(txt), archivos de Python(py), archivos de dibujo(dwg), y archivos Arc-Map(ArcMaP).
+Los archivos que usaremos en nuestro proyecto van derivados de los programas ya mencionados, el cual son los siguientes:
+Archivos de texto(txt), archivos de Python(py), archivos de dibujo(dwg), y archivos ArcMap(ArcMaP).
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/3.jpg)
 
@@ -65,12 +65,24 @@ Manejo de datos
 
 Resultados
 
-Como parte de nuestros resultados realizados en QGIS nos muestra la afectación que ten-dría la población, la vegetación e incluso al-gunos sembradíos en la comunidad de Boca de Apiza, Tecoman. 
+Como parte de nuestros resultados realizados en QGIS nos muestra la afectación que tendría la población, la vegetación e incluso al-gunos sembradíos en la comunidad de Boca de Apiza, Tecoman. 
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/4.jpg)
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/5.jpg)
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/6.jpg)
+
+Conclusiones
+
+George Heredia Sebastián:
+
+En conclusión, el proyecto efectuado a lo largo de las parciales nos sirvió para la utilización de diferentes tipos de librerías dentro ArcGIS en Python, además de poner en practica nuestra habilidad de desempeño en la lógica de dichos programas.
+
+Oswaldo Missael García Orozco:
+
+Concluimos en la importancia que tiene Python y ArcGIS en nuestra carrera, además de la utilización próxima que nos daría en un no tan lejano empleo, y fomentar lo obtenido en nuestro programa.
+
+
 
 
