@@ -39,5 +39,10 @@ ArcGIS es un completo sistema que permite recopilar, organizar, administrar, ana
 No utilice las principales zonas de afectación estudiadas van desde la iniciación de las huertas plataneras ubicadas las orillas de dicho rio, de aproximadamente 25 htas, y el pueblo de Coahuayana.
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/1.jpg)
+Figura1. Pueblo de Coahuayana
 
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/2.jpg)
+Figura 2. Huertas plataneras de Coahuayana
+
+Ademas se generaran mapas de antes y despues de una zona de afectacion, por ejemplo como era la huerta hac diez años y como se encuentra ahora, esto derivado de las ortofotos generadas con el programa de ArcMap.
 
