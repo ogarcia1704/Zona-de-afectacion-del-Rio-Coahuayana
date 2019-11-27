@@ -44,5 +44,29 @@ Figura1. Pueblo de Coahuayana
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/2.jpg)
 Figura 2. Huertas plataneras de Coahuayana
 
-Ademas se generaran mapas de antes y despues de una zona de afectacion, por ejemplo como era la huerta hac diez años y como se encuentra ahora, esto derivado de las ortofotos generadas con el programa de ArcMap.
+Ademas se generaran mapas de antes y despues de una zona de afectacion, por ejemplo como era la huerta hace diez años y como se encuentra ahora, esto derivado de las ortofotos generadas con el programa de ArcMap.
+
+Formatos de archivos
+
+Los archivos que usaremos en nuestro proyecto van derivados de los programas ya menciona-dos, el cual son los siguientes:
+Archivos de texto(txt), archivos de Python(py), archivos de dibujo(dwg), y archivos Arc-Map(ArcMaP).
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/3.jpg)
+
+La información obtenida en este proyecto serán obtenidas de ortofotos escala 1:20000, además de la utilización de diferentes librerías como de Python como gdal ,org entre otras.
+
+Manejo de datos
+
+
+
+Resultados
+
+Como parte de nuestros resultados realizados en QGIS nos muestra la afectación que ten-dría la población, la vegetación e incluso al-gunos sembradíos en la comunidad de Boca de Apiza, Tecoman. 
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/4.jpg)
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/5.jpg)
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/6.jpg)
+
 
