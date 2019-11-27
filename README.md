@@ -57,7 +57,11 @@ La información obtenida en este proyecto serán obtenidas de ortofotos escala 1
 
 Manejo de datos
 
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/8.jpg)
 
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/7.jpg)
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/9.jpg)
 
 Resultados
 
