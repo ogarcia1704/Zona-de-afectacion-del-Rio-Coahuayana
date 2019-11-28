@@ -57,21 +57,23 @@ La información obtenida en este proyecto serán obtenidas de ortofotos escala 1
 
 Manejo de datos
 
+Zona de influencia o buffer
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/4.jpg)
 
+Pendientes
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/5.jpg)
 
-![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/6.jpg)
+
 
 Resultados
 
 Como parte de nuestros resultados realizados en QGIS nos muestra la afectación que tendría la población, la vegetación e incluso al-gunos sembradíos en la comunidad de Boca de Apiza, Tecoman. 
 
-![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/4.jpg)
-
-![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/5.jpg)
-
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/6.jpg)
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/7.jpg)
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/8.jpg)
 
 Conclusiones
 
