@@ -69,7 +69,7 @@ Pendientes
 
 Resultados
 
-Como parte de nuestros resultados realizados en QGIS nos muestra la afectación que tendría la población, la vegetación e incluso al-gunos sembradíos en la comunidad de Boca de Apiza, Tecoman. 
+Como parte de nuestros resultados realizados en ARCGIS nos muestra la afectación que tendría la población, la vegetación e incluso algunos sembradíos en la comunidad de Boca de Apiza, Tecoman. 
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/6.jpg)
 
