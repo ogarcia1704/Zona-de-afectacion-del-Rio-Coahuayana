@@ -25,6 +25,7 @@ El rio Coahuayana conduce un caudal conside-rable la mayor parte del año y su c
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/1.jpg)
 Figura 1.- (Tramo desde Estapilla hasta su desem-bocadura en el Océano Pacifico del Rio Coahuaya-na)
 
+
 Inicia su recorrido con dirección suroeste en un tramo de 25 km y en las inmediaciones del cerro de Tamazula de Gordiano, Jalisco, cambia su curso hacia el oeste durante 8 km, para variarlo finalmente hacia el sur – suroeste. Desde su nacimiento hasta su desembocadura en Boca de Apiza, al norte de la Bahía de San Telmo, recorre una distancia aproximada de 152 km. 
 Es el límite entre Jalisco y Colima desde el pun-to de unión del arroyo de El Muerto, al sur de la estación de Tonilita, hasta el paso del Naranjo. De este lugar hasta Apiza, sirve de límite con el estado de Michoacán. Tiene como subcuencas intermediarias al Rio Coahuayana y a las lagu-nas de Alcuzahue y Amela.
 Son varias las fuentes contaminantes de esta cuenca; sobresale el municipio de Tecomán, debido a que es un centro muy poblado y que cuenta demás con algunas industrias procesa-doras de aceites cítricos en menor grado figu-ran las localidades de Cerro de Ortega, Alzada, Cuauhtémoc y Alcaraces, con descargas muni-cipales, y Quesería, en donde hay instalado un ingenio.
@@ -32,8 +33,10 @@ Son varias las fuentes contaminantes de esta cuenca; sobresale el municipio de T
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/2.jpg)
 Tabla 1.- (Superficie y porcentaje de las cuencas hidrológicas que integran la Subregión Hidrológi-ca)
 
+
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/3.jpg)
 Grafica 1.- (Precipitación anual en Michoacán en los últimos 70 años)
+
 
 1.1. 	Tipos de Ríos
 
@@ -45,11 +48,13 @@ Estos ríos están formados por cursos de agua localizados en regiones de lluvia
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/4.jpg)
 Figura 2.- (Ejemplo de rio perennes)
 
+
 •	Ríos estacionales
 Estos ríos y ramblas son de zonas con clima tipo mediterráneo, en donde hay estaciones muy diferenciadas, con inviernos húmedos y veranos secos o viceversa. Suelen darse más en zonas de montaña que en las zonas de llanu-ra.
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/5.jpg)
 Figura 3.- (Ejemplo de ríos estacionales)
+
 
 •	Ríos Transitorios
 Son los ríos de zonas con clima desértico o seco, de caudal que a veces, en los cuales se puede estar sin precipitaciones durante años. Esto es debido a la poca frecuencia de las tor-mentas en zonas de clima de desierto. Pero cuando existen descargas de tormenta, que muchas veces son torrenciales, los ríos surgen rápidamente y a gran velocidad. Reciben el nombre de wadis o uadis, a los cauces casi siempre secos de las zonas desérticas, que pueden llegar a tener crecidas violentas y muy breves.
@@ -57,11 +62,13 @@ Son los ríos de zonas con clima desértico o seco, de caudal que a veces, en lo
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/6.jpg)
 Figura 4.- (Ejemplo de rio transitorio)
 
+
 •	Ríos Alóctonos
 Son ríos, generalmente de zonas áridas, cuyas aguas proceden de otras regiones más lluvio-sas. El Nilo en Egipto siempre se ha tomado como ejemplo de este tipo de ríos. También el Okavango, otro río africano que termina en un amplio delta interior en una cuenca endorreica de clima relativamente seco.
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/7.jpg)
 Figura 5.- (Ejemplo de Ríos Alóctonos)
+
 
 1.2. 	Programas y datos que utilizar
 
@@ -79,6 +86,7 @@ La ventaja adicional de utilizar ArcPy dentro de Python es que Python es un leng
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/8.jpg)
 Figura 7.- (Juntando ambos softwares, nace ArcPy)
 
+
 1.4. 	Zona de influencia o zonas de riesgo en los Ríos en ArcPy.
 
 Una entidad importante de la herramienta Zona de influencia es el parámetro Método que de-termina cómo se construyen las zonas de in-fluencia. Hay dos métodos básicos para cons-truir zonas de influencia: euclidiano y geodési-co.
@@ -92,6 +100,7 @@ Las zonas de influencia geodésicas pueden parecer inusuales sobre un mapa plano
 Figura 6.- (Tipos de zona de influencias en Python)
 
 
+
 2. 	Desarrollo
 
 Por medio de la fotogrametría nosotros podre-mos calcular zona de afectación ha hecho el Rio entre 1999-2006 y cual es principal punto de afectación debido a este cauce.
@@ -100,8 +109,10 @@ Se busca que el programa obtenga las zonas de influencia debido al Rio Coahuayan
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/10.jpg)
 Figura 7.- (Rio Coahuayana y a un costado la comu-nidad de Boca de Apiza, Tecomán, Colima)
 
+
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/11.jpg)
-Figura 8.- (Rio Coahuayana y a un lado diferentes cultivos de plátanos, chile verde, etc.
+Figura 8.- (Rio Coahuayana y a un lado diferentes cultivos de plátanos, chile verde, etc.)
+
 
 Para llevarse a cabo el programa se requiere tener una carpeta en disco C: donde contenga un archivo .SHP de la carta topográfica la cual se quiera considerar.
 Posteriormente el usuario deberá indicar al pro-grama a cuantos metros querrá su zona de in-fluencia. 
@@ -109,9 +120,11 @@ Para puntos de influencia será el siguiente có-digo.
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/12.jpg)
 
+
 Para conocer las pendientes del lugar será el siguiente código.
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/13.jpg)
+
 
 3. 	Manejo de datos
 
@@ -132,8 +145,10 @@ El equipo con el que fue probado el programa presenta las siguientes caracterís
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/14.jpg)
 Figura 9.- (Especificaciones del dispositivo)
 
+
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/15.jpg)
 Figura 10.- (Especificaciones de Windows)
+
 
 4. 	Resultados
 
@@ -142,13 +157,16 @@ A continuación, se presenta las zonas de in-fluencia y las pendientes en el lug
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/16.jpg)
 
+
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/17.jpg)
 Figura11.- (Zona de influencia del rio a 500 metros)
 
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/18.jpg)
 
+
 ![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/19.jpg)
 Figura 12.- (Pendientes de la zona de influencia)
+
 
 5. 	Conclusiones.
 
