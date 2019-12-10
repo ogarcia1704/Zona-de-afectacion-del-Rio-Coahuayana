@@ -181,4 +181,5 @@ El lenguaje de programación Python puede ser utilizado para trabajar con Sistem
 •	Anonimo. (2016). Tipos de Rios. 06/12/2019, de Divina Conciencia. Sitio web: http://www.laanunciataikerketa.com/trabajos/divinaconciencia/tipos_rios_actividad.pdf
 
 
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Zona-de-afectacion-del-Rio-Coahuayana/blob/master/Imagenes/ZONA%20DE%20RIESGO%20DEL%20RIO%20COAHUAYANA%20(3).jpg)
 
